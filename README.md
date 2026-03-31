@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Suman Rajput</h1>
-<h3 align="center">🚀 Programming Language Creator | 🧠 Data Analytics Enthusiast | 💻 Aspiring Software & Web Developer</h3>
+<h3 align="center">🚀 Programming Language Creator | 🧠 Data Analytics Enthusiast |</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Creator+of+ShellbeeScript;Self-taught+Python+Developer;Learning+by+building+projects&center=true&width=500&height=45">
