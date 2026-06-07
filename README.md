@@ -1,55 +1,131 @@
-<h1 align="center">Hey 👋, I'm Suman Rajput</h1>
-<h3 align="center">🚀 Programming Language Creator | 🧠 Data Analytics Enthusiast |</h3>
+# Hi 👋, I'm Suman Rajput
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Creator+of+ShellbeeScript;Self-taught+Python+Developer;Learning+by+building+projects&center=true&width=500&height=45">
-</p>
+### 🤖 AI Business Analyst | 📊 Data Analytics Enthusiast | 🐍 Python & SQL Learner
 
 ---
 
-### 🐝 About Me
+## 🚀 About Me
 
-- 🔭 I’m currently building **ShellbeeScript** – a custom programming language from scratch using Python  
-- 🌱 Currently learning **Web Development**, **Software Design Patterns**, and **Open Source Contribution**
-- 💬 Ask me about **Python**, **Git**, **Building Languages**, or anything code-related!
-- 📫 How to reach me: **suman06092004rajput@gmail.com**
-- ⚡ Fun fact: I believe every bug teaches a lesson 😄
+🎓 B.Tech Student at Quantum University (2023–2027)
 
----
+📊 Aspiring AI Business Analyst with a passion for turning data into actionable business insights.
 
-### 🧰 Languages and Tools
+💡 Interested in Business Analysis, Data Analytics, AI Solutions, Process Improvement, and Dashboard Development.
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
-</p>
+🤖 Exploring how AI can solve real-world business problems through data-driven decision making.
+
+🌱 Currently learning:
+
+* Advanced SQL
+* Power BI
+* Machine Learning Fundamentals
+* Business Analysis Frameworks
+* Prompt Engineering
 
 ---
 
-### 📊 GitHub Stats
+## 💼 Core Skills
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sumanrajput&show_icons=true&theme=radical" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumanrajput&layout=compact&theme=radical" height="180" />
-</p>
+### Business Analysis
+
+* Requirements Gathering
+* User Stories
+* Stakeholder Communication
+* Process Mapping
+* Agile & Scrum
+* Business Requirement Documentation (BRD)
+
+### Data Analytics
+
+* SQL
+* Excel
+* Data Cleaning
+* KPI Reporting
+* Dashboard Design
+* Data Storytelling
+
+### AI & Machine Learning
+
+* AI Use Case Analysis
+* Prompt Engineering
+* Machine Learning Concepts
+* Statistical Reasoning
+* ChatGPT, Claude & Gemini
+
+### Technical Skills
+
+* Python
+* Pandas
+* NumPy
+* MySQL
+* PostgreSQL
+* Git & GitHub
+* Power BI
+* Tableau
 
 ---
 
-### 🔗 Connect With Me
+## 🚀 Featured Projects
 
-<p align="left">
-  <a href="mailto:suman06092004rajput@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/suman-2a9b97374"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/SumanRajput06"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
-</p>
+### 🛒 AI Use Case Analysis – E-Commerce Platform
+
+* Identified AI opportunities including recommendation systems, demand forecasting, churn prediction, fraud detection, and chatbots.
+* Created business requirements, stakeholder personas, and success metrics.
+* Developed customer segmentation dashboards using Power BI.
+
+### 📈 Sales Performance Dashboard
+
+* Cleaned and analyzed 5,000+ sales records using Python and Pandas.
+* Built interactive Power BI dashboards.
+* Generated insights on revenue trends, regional performance, and seasonal demand.
+
+### 🤖 Business Process Automation Study
+
+* Analyzed HR onboarding workflows.
+* Proposed AI-powered automation using NLP.
+* Designed chatbot requirements and business process improvements.
+
+### 🐚 ShellbeeScript
+
+* Designed and built a custom programming language using Python.
+* Developed syntax, interpreter logic, and project documentation.
 
 ---
 
-### 🧮 Profile Views
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=sumanrajput&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+## 🏆 Certifications
+
+✔ AI for Everyone – Andrew Ng (Coursera)
+
+✔ Power BI for Beginners – Microsoft Learn
+
+✔ SQL for Data Analysis
+
+✔ Google Data Analytics Certificate (In Progress)
+
+✔ Prompt Engineering for Business
+
+---
+
+## 🎯 Current Goals
+
+* Build an AI Business Analyst Portfolio
+* Master SQL and Power BI
+* Create End-to-End Analytics Projects
+* Learn Applied Machine Learning
+* Secure an AI Business Analyst / Data Analyst Internship
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: [suman06092004rajput@email.com](mailto:suman06092004rajput@email.com)
+
+💼 LinkedIn: linkedin.com/in/suman-rajput-6a1091376
+
+🐙 GitHub: github.com/SumanRajput06
+
+📍 Roorkee, Uttarakhand, India
+
+---
+
+### ✨ "Transforming Data into Business Decisions with AI"
